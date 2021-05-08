@@ -1,0 +1,39 @@
+2021-04-04 16:29:30,347 Enter 3 numbers separated by space to get their sumation
+2021-04-04 16:29:33,893 Entered numbers are 12,8,10
+2021-04-04 16:29:33,893 Sum of numbers is 30
+2021-04-04 16:33:56,056 Enter 3 numbers separated by space to get their sumation
+2021-04-04 16:33:59,441 Entered numbers are 12,3,4
+2021-04-04 16:33:59,441 numbers - 0
+2021-04-04 16:33:59,442 Sum after adding number 12
+2021-04-04 16:33:59,442 numbers - 12
+2021-04-04 16:33:59,442 Sum after adding number 15
+2021-04-04 16:33:59,442 numbers - 15
+2021-04-04 16:33:59,442 Sum after adding number 19
+2021-04-04 16:33:59,443 Sum of numbers is 19
+2021-04-04 16:40:51,127 Enter 3 numbers separated by space to get their sumation
+2021-04-04 16:41:03,844 Entered numbers are 12,4,10
+2021-04-04 16:41:03,847 numbers - 0
+2021-04-04 16:41:03,847 Sum after adding number 12
+2021-04-04 16:41:03,847 numbers - 12
+2021-04-04 16:41:03,847 Sum after adding number 16
+2021-04-04 16:41:03,847 numbers - 16
+2021-04-04 16:41:03,848 Sum after adding number 26
+2021-04-04 16:41:03,848 Sum of numbers is 26
+2021-04-04 17:05:50,966 Enter 3 numbers separated by space to get their sumation
+2021-04-04 17:05:57,302 Entered numbers are 12,4,45
+2021-04-04 17:05:57,305 numbers - 0
+2021-04-04 17:05:57,307 Sum after adding number 12
+2021-04-04 17:05:57,309 numbers - 12
+2021-04-04 17:05:57,312 Sum after adding number 16
+2021-04-04 17:05:57,313 numbers - 16
+2021-04-04 17:05:57,314 Sum after adding number 61
+2021-04-04 17:05:57,316 Sum of numbers is 61
+2021-04-04 17:08:15,214 Enter 3 numbers separated by space to get their sumation
+2021-04-04 17:08:22,928 Entered numbers are 20,10,30
+2021-04-04 17:08:22,932 numbers - 0
+2021-04-04 17:08:22,935 Sum after adding number 20
+2021-04-04 17:08:22,939 numbers - 20
+2021-04-04 17:08:22,942 Sum after adding number 30
+2021-04-04 17:08:22,947 numbers - 30
+2021-04-04 17:08:22,950 Sum after adding number 60
+2021-04-04 17:08:22,952 Sum of numbers is 60
