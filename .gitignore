@@ -11,3 +11,8 @@ Practice/abc.txt
 *.docx
 *.docx
 *.docx
+*.xlsx
+*.csv
+*.data
+*.h5
+Practice/top50sample_pickle
